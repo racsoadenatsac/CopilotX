@@ -1,4 +1,4 @@
-// Develop
+// Developer: Oscar Castañeda
 package main
 
 import (
